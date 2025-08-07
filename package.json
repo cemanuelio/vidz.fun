@@ -1,8 +1,18 @@
 {
   "name": "vidz.fun",
-  "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
+  "description": "Play multiple youtube videos in a single page.",
+  "keywords": [
+    "youtube",
+    "video",
+    "live"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cemanuelio/vidz.fun.git"
+  },
+  "author": "Celio Rodrigues <celiorod21@gmail.com> (https://github.com/cemanuelio)",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
