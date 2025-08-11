@@ -108,7 +108,7 @@ const App: FC = () => {
               <FaTimes />
             </button>
             <a
-              href="https://github.com/cemanuelio/vidz.fun/blob/main/README.pt-br.md"
+              href="https://github.com/cemanuelio/vidz.fun/blob/main/README.md"
               target="_blank"
               rel="noopener noreferrer"
               data-tooltip-id="main-tooltip"

@@ -1,6 +1,6 @@
 {
   "short_name": "vidz.fun",
-  "name": "vidz.fun - Play multiple youtube videos in a single page",
+  "name": "vidz.fun - Reproduza vídeos do youtube simultaneamente em uma única janela",
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",

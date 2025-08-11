@@ -2,7 +2,7 @@
   "name": "vidz.fun",
   "version": "1.1.0",
   "type": "module",
-  "description": "Play multiple youtube videos in a single page.",
+  "description": "Reproduza vídeos do youtube simultaneamente em uma única janela.",
   "keywords": [
     "youtube",
     "video",
